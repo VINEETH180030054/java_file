@@ -1,4 +1,3 @@
-import java.util.Scanner;
 class kind
 {
    public static void main(String args[])
